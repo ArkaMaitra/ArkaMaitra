@@ -8,13 +8,16 @@
 ## Tech Stack 💻
 ##### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=green)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
 #### Front End 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+#### Dashboard
+![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F2C811) 
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -28,29 +31,20 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+#### Libraries
+![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=4FA8CA) 
+![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=0B0153) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib&logoColor=E4AD5C) 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+#### Web Hosting 
+![GithubPages](https://img.shields.io/badge/github%20pages-000?style=for-the-badge&logo=github&logoColor=427DB0)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku&logoColor=6413B0)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+#### Others 
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArkaMaitra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArkaMaitra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaMaitra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArkaMaitra&icon=2&color=8)](https://visitcount.itsvg.in)
