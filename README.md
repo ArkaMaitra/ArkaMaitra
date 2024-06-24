@@ -12,13 +12,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=yellow)
 
 #### Front End 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=blue) 
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 #### Dashboard
 ![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F2C811) 
-![Tableau](https://img.shields.io/badge/tableau-000?style=for-the-badge&logo=powerbi&logoColor=002050) 
+![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=E97627) 
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=#F34E1E)
