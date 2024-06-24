@@ -46,6 +46,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A) 
 
+``` python
+if (feelingLazy){
+            while (motivation < sleep){
+                motivation++;
+            }
+        }
+// - Arka Maitra
+```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArkaMaitra&icon=2&color=8)](https://visitcount.itsvg.in)
