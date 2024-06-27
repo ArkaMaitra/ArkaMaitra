@@ -7,6 +7,7 @@
 
 ## Tech Stack 💻
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0) 
+![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=sql&logoColor=white&color=blue)
 ![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F2C811) 
 ![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=E97627)
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
