@@ -25,7 +25,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=#F8A3FF)
 
 #### Database & Libraries
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=teal) 
 ![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy&logoColor=4FA8CA) 
 ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas&logoColor=0B0153) 
