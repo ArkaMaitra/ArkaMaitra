@@ -16,7 +16,7 @@
 
 
 #### Design/Visual Tools
-![Power Bi](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
+![Power Bi](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=Power%20BI&fontColor=F2C811)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=#F34E1E)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer&logoColor=#0055FE)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom&logoColor=#2DAAFF)
