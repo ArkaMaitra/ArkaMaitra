@@ -7,7 +7,6 @@
 
 ## Tech Stack 💻
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=3670A0) 
-![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F2C811) 
 ![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=E97627)
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=orange) 
@@ -17,6 +16,7 @@
 
 
 #### Design/Visual Tools
+![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=#F34E1E)
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer&logoColor=#0055FE)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom&logoColor=#2DAAFF)
