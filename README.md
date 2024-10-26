@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently aspiring to be a Data Analyst
+🔭 Floating around, trying new things, failing, trying again, learning and pushing myself.
 
 
 ## Socials :
